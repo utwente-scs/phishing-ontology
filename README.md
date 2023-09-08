@@ -2,9 +2,9 @@
 
 ROSE is a well-founded reference ontology, specified in OntoUML modeling language, that characterizes the concept of security mechanism and explains how it this notion is related to value, risk, and prevention.
 
-PURL: https://purl.org/security-ontology
 
-## Project Struture
+
+## Project Structure
 
 * [/ontouml](/ontouml) contains files related to the conceptual version of PHATO, which is represented in OntoUML.
 * [/owl](/owl) contains files related to the [gUFO-based](https://nemo-ufes.github.io/gufo/) implementation of PHATO, represented in OWL.

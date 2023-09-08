@@ -1,8 +1,8 @@
 ## PHATO: Phishing Attack Ontology
 
-ROSE is a well-founded reference ontology, specified in OntoUML modeling language, that characterizes the concept of security mechanism and explains how it this notion is related to value, risk, and prevention.
+PHATO is a well-founded Phishing Attack Ontology, specified in OntoUML modeling language, built by reusing the [Reference Ontology for Security Engineering](https://github.com/unibz-core/security-ontology).
 
-
+The acronym plays with two related ideas: in Portuguese, ''phato'' may sound like ''fato'' (_fact_, in English) or like ''pato'' (_duck_). Phishing involves lying about the facts to deceive a target. Moreover, ''pato'' is slang meaning a naive person who is easily deceived.
 
 ## Project Structure
 

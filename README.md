@@ -7,7 +7,6 @@ The acronym plays with two related ideas: in Portuguese, ''phato'' may sound lik
 ## Project Structure
 
 * [/ontouml](/ontouml) contains files related to the conceptual version of PHATO, which is represented in OntoUML.
-* [/owl](/owl) contains files related to the [gUFO-based](https://nemo-ufes.github.io/gufo/) implementation of PHATO, represented in OWL.
 
 ## Reusing .vpp files
 

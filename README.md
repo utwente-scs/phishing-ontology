@@ -11,7 +11,6 @@ The acronym plays with two related ideas: in Portuguese, ''phato'' may sound lik
 ## Reusing .vpp files
 
 * To open and edit .vpp files, use [Visual Paradigm](https://www.visual-paradigm.com)
-* To open and edit .ttl files, use [Protégé](https://protege.stanford.edu/)
 
 ## Built with
 

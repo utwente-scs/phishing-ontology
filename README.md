@@ -32,4 +32,6 @@ The acronym plays with two related ideas: in Portuguese, ''phato'' may sound lik
 
 ## Errata
 
+For questions and reporting mistakes, feel free to use [Issues](https://github.com/utwente-scs/phishing-ontology/issues). 
+
 - Nothing yet.

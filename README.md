@@ -17,6 +17,9 @@ The acronym plays with two related ideas: in Portuguese, ''phato'' may sound lik
 * [Visual Paradigm](https://www.visual-paradigm.com) - a UML CASE tool that offers a [free community edition version](https://www.visual-paradigm.com/download/community.jsp)
 * The [OntoUML Plugin](https://github.com/OntoUML/ontouml-vp-plugin) for Visual Paradigm
 
+## Slide Presentation
+
+* [Click here](https://github.com/utwente-scs/phishing-ontology/blob/main/ER_Forum_2023___Presentation.pdf).
 
 ## Authors
 

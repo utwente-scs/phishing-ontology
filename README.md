@@ -31,7 +31,7 @@ The acronym plays with two related ideas: in Portuguese, ''phato'' may sound lik
 
 ## References
 
-- Oliveira, Í., Calhau, R. F., (2023). Toward a Phishing Attacks Ontology. ER2023: Companion Proceedings of the 42nd International Conference on Conceptual Modeling: ER Forum, 7th SCME, Project Exhibitions, Posters and Demos, and Doctoral Consortium, November 06-09, 2023, Lisbon, Portugal. Forthcoming. [Preprint](https://www.researchgate.net/publication/374723584_Toward_a_Phishing_Attack_Ontology) available on ResearchGate.
+- Oliveira, Í., Calhau, R. F., (2023). Toward a Phishing Attacks Ontology. ER2023: Companion Proceedings of the 42nd International Conference on Conceptual Modeling: ER Forum, 7th SCME, Project Exhibitions, Posters and Demos, and Doctoral Consortium, November 06-09, 2023, Lisbon, Portugal. https://ceur-ws.org/Vol-3618/forum_paper_25.pdf
 - Baratella, R., Fumagalli, M., Oliveira, Í., Guizzardi, G. (2022). Understanding and Modeling Prevention. In: Guizzardi, R., Ralyté, J., Franch, X. (eds) Research Challenges in Information Science. RCIS 2022. Lecture Notes in Business Information Processing, vol 446. Springer, Cham. https://doi.org/10.1007/978-3-031-05760-1_23
 - Oliveira, Í., Sales, T.P., Baratella, R., Fumagalli, M., Guizzardi, G. (2022). An Ontology of Security from a Risk Treatment Perspective. In: Ralyté, J., Chakravarthy, S., Mohania, M., Jeusfeld, M.A., Karlapalem, K. (eds) Conceptual Modeling. ER 2022. Lecture Notes in Computer Science, vol 13607. Springer, Cham. https://doi.org/10.1007/978-3-031-17995-2_26
 

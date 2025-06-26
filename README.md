@@ -1,3 +1,14 @@
+
+> [!WARNING]
+>
+> The _Phishing Attack Process Ontology_ (PAPO) is an evolution of PHATO.
+> 
+> See the repository: http://w3id.org/phishing-process-ontology/git
+>
+> However, being simple, PHATO may work best for your use case.
+
+---
+
 ## PHATO: Phishing Attack Ontology
 
 PURL: https://purl.org/phishing-ontology
